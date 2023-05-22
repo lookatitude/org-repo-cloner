@@ -2,6 +2,8 @@
 
 This Python script allows you to clone all repositories from a specified GitHub organization. It has options for cloning to a specified path, compressing the cloned repositories into tar.gz files, and colorized output for improved readability. It also supports multi-threading for improved performance.
 
+Note: This script is intended for used to backup your repositories for a GitHub organizations.
+
 ## Features
 
 - Clones all repositories (public and private) from a specified GitHub organization
